@@ -1,0 +1,10 @@
+Steps: 
+1. Compute the covarience matrix from the datasets.
+2. Compute the eigen vector and values.
+3. Sort the eigen-vectors(sometimes 2 or many can be obtained) as per increasing eigen value(col wise).
+4. Take the n no of such vectors(for n components in PCA) as matrix in(col wise) .
+5. Multiply the dataset with that obtained in 4. Thats the decomposition into lower space.
+
+Note: The basis vector in step 4 gives the principal-component vectors.
+
+
