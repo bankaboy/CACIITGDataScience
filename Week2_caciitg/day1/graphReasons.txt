@@ -1,0 +1,117 @@
+Bar Graphs - 
+You want to compare two or more values in the same category
+You want to compare parts of a whole
+You don’t have too many groups (less than 10 works best)
+You want to understand how multiple similar data sets relate to each 
+other
+
+Line Chart - 
+line charts help to visualize data in a compact and precise format 
+which makes it easy to rapidly scan information in order to 
+understand trends. Line charts are used to show resulting data 
+relative to a continuous variable
+You want to understand trends, patterns, and fluctuations in your 
+data
+You want to compare different yet related data sets with multiple 
+series
+You want to make projections beyond your data
+
+Scatterplot - 
+Scatterplots are the right data visualizations to use when there 
+are many different data points, and you want to highlight 
+similarities in the data set. This is useful when looking for 
+outliers or for understanding the distribution of your data.
+You want to show the relationship between two variables
+You want a compact data visualization
+
+Sparklines - 
+Sparklines are arguably the best data visualization for showing 
+trends.
+You can pair it with a metric that has a current status value 
+tracked over a specific time period
+You want to show a specific trend behind a metric
+
+Pie Chart -  
+You want to compare relative values
+You want to compare parts of a whole
+You want to rapidly scan metrics
+
+Gauge - 
+Gauges typically only compare two values on a scale: they compare a 
+current value and a target value, which often indicates whether 
+your progress is either good or bad, in the green or in the red.
+You want to track single metrics that have a clear, in the moment 
+objective
+
+Waterfall Chart - 
+A waterfall chart is an information visualization that should be 
+used to show how an initial value is affected by intermediate 
+values and resulted in a final value. The values can be either 
+negative or positive.
+To reveal the composition or makeup of a number
+
+Funnel chart - 
+A funnel chart is your data visualization of choice if you want to 
+display a series of steps and the completion rate for each step.
+Funnel charts are most often used to represent how something moves 
+through different stages in a process. A funnel chart displays 
+values as progressively decreasing proportions amounting to 100 
+percent in total.
+
+Heat Map - 
+A heat map or choropleth map is a data visualization that shows the 
+relationship between two measures and provides rating information.
+To show a relationship between two measures
+To illustrate an important detail
+To use a rating system
+
+Histogram - 
+A histogram is a data visualization that shows the distribution of 
+data over a continuous interval or certain time period.
+To make comparisons in data sets over an interval or time
+To show a distribution of data
+
+Boxplot - 
+A box plot, or box and whisker diagram, is a visual representation 
+of displaying a distribution of data, usually across groups, based 
+on a five number summary: the minimum, first quartile, the median 
+(second quartile), third quartile, and the maximum.
+To display or compare a distribution of data
+To identify the minimum, maximum and median of data
+
+Maps - 
+Maps are an amazing visualization to add to your dashboard if 
+organizing data geographically tells an important story for your 
+business.
+Geography is an important part of your data story
+
+Tables - 
+You want to display two-dimensional data sets that can be organized 
+categorically
+You can drill-down to break up large data sets with a natural 
+drill-down path
+
+Indicators - 
+Indicators are useful for an at a glance view of a metric you need 
+to keep track of. An indicator is simply a number showing the 
+current value of whichever performance metric you’re tracking.
+
+Area Chart - 
+An area chart is very similar to a line graph but may do a better 
+job at highlighting the relative differences between items. Use an 
+area chart when you want to see how different items stack up or 
+contribute to the whole.
+
+Radar/Spider Chart - 
+A radar chart is useful for understanding the relative differences 
+between items in your data. Radar charts make it easy to compare 
+multiple items and see if there are differences that may be worth 
+further investigation.
+
+Treemap - 
+A treemap is a visual tool that can be used to break down the 
+relationships between multiple variables in your data. They can be 
+used strictly as a presentation vehicle to show how your products 
+roll up into different categories, for example. A treemap can be 
+broken down into 2-3 different layers to show the hierarchical 
+relationship between items.

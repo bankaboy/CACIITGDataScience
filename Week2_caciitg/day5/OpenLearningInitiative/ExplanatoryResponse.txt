@@ -1,0 +1,19 @@
+Compare different categories of explanatory variable with quantitative response using boxplots.
+
+Compare different categories of explanatory variable with categorical response using two way tables and bar charts.
+
+For quantitative explanatory variable with quantitative response variable, use scatterplot to see correlation.
+
+Calculation: r is calculated using the following formula: 
+r = (1/n-1)*∑[i to n] { ((xi-x')/Sx) * ((yi-y')/Sy) }
+
+Y = a + b*X
+b = r*(Sy/Sx)
+a = Y'-b*X'
+
+
+Principle
+Association does not imply causation!
+
+Here, the seriousness of the fire is a lurking variable. A lurking variable is a variable that is not among the explanatory or response variables in a study, but could substantially affect your interpretation of the relationship among those variables.
+Whenever including a lurking variable causes us to rethink the direction of an association, this is an instance of Simpson's paradox.
